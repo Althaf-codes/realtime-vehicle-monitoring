@@ -24,7 +24,7 @@ The Realtime Vehicle Monitoring App is designed to interface with an Arduino har
 
 1. **Clone the repository**:
    ```sh
-   git clone https://github.com/yourusername/realtime-vehicle-monitoring.git
+   git clone https://github.com/Althaf-codes/realtime-vehicle-monitoring.git
    cd realtime-vehicle-monitoring
 
 2. Install Flutter dependencies:
