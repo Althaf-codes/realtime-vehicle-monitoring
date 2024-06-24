@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>366909288316-o1r6n5jf4duu9iudgnk3f5g7o6orph5p.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.366909288316-o1r6n5jf4duu9iudgnk3f5g7o6orph5p</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBXusCtfU6COX8M2TyK1vOStG4oaWi2BkM</string>
+	<key>GCM_SENDER_ID</key>
+	<string>366909288316</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.vehicleMonitoringApp</string>
+	<key>PROJECT_ID</key>
+	<string>vmon-77a68</string>
+	<key>STORAGE_BUCKET</key>
+	<string>vmon-77a68.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:366909288316:ios:17e01a68234677c45dfef9</string>
+	<key>DATABASE_URL</key>
+	<string>https://vmon-77a68-default-rtdb.asia-southeast1.firebasedatabase.app</string>
+</dict>
+</plist>

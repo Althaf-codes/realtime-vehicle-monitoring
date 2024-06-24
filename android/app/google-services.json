@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "366909288316",
+    "firebase_url": "https://vmon-77a68-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "vmon-77a68",
+    "storage_bucket": "vmon-77a68.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:366909288316:android:eb31cd21de88ff8a5dfef9",
+        "android_client_info": {
+          "package_name": "com.example.vehicle_monitoring_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "366909288316-rn7reblfvrd1m1el41vt6k10f4ih7326.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCT2LZGDuRzx0BwtMEaV5WLm_37kwUhdc8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "366909288316-rn7reblfvrd1m1el41vt6k10f4ih7326.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
