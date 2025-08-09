@@ -40,8 +40,8 @@ The Realtime Vehicle Monitoring App is designed to interface with an Arduino har
 
 ## Screenshots
 
-<img src ="screenshots/vmon1.png" width="400px">
-<img src ="screenshots/vmon2.png" width="400px">
+<img src ="screenshots/vmon_1.png" width="400px">
+<img src ="screenshots/vmon_2.png" width="400px">
 
 ## Created Date
 This project was created on March 12, 2023.
